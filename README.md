@@ -9,11 +9,12 @@
 
 💡 Skills:
 
-    Languages: Python, Java, HTML, CSS, JavaScript
-    Frameworks: Django
+    Languages: Python, JavaScript
+    Web Developement: HTML, CSS, Django
     Techniques: ORM, MVC in Django, REST API development
     Databases: SQL, PostgreSQL, SQLite3
-    Tools: Git, Bash, Ubuntu, WordPress
+    Tools: Git, Bash, WordPress
+    OS: Ubuntu(GNU/Linux), Windows
 
 🌱 What I'm Learning:
 
