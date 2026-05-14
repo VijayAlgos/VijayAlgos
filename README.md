@@ -1,4 +1,4 @@
-\👋 Hello! I'm Vijay
+👋 Hello! I'm Vijay
 
 🎓 MCA Graduate | 🌐 Python Developer specializing in Django | 🚀 Aspiring Software Engineer
 
