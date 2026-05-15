@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Vijay P
+# 👋 Hello! I'm Vijay 
 
 🎓 MCA Graduate &nbsp;|&nbsp; 💻 Associate Full Stack Developer &nbsp;|&nbsp; 🐍 Python · React · SQL
 
